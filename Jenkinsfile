@@ -1,4 +1,4 @@
-pipepline {
+pipeline {
     agent none
     stages {
         stage('S1') {
